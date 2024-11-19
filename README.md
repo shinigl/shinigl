@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, Aniket Kumar</h1>
 <h3 align="center">A Full Stack Developer.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0.gif">
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namiranish&label=Profile%20views&color=0e75b6&style=flat" alt="namiranish" /> </p>
 
 ## About Me
 
-- 🔭 I’m currently working on: Web Development.
-- 🌱 I’m leaning MERN.
+- 🔭 I’m currently working on: Web Development
+- 🌱 I’m learning MERN.
 - 📫 How to reach me: kraniket754@gmail.com
 
 ## 🔗 Connect with me
